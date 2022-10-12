@@ -1,0 +1,9 @@
+Get All Tasks     :  http://localhost:3000/task
+
+Get task by id    :  http://localhost:3000/task/id
+
+Update task       :  http://localhost:3000/task
+
+Put task by id    :  http://localhost:3000/task/id
+
+Delete task by id :  http://localhost:3000/task/id
